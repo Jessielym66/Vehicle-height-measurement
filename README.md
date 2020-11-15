@@ -11,6 +11,6 @@ camera_configs.py文件中保存双目摄像头标定后所需参数
 my_hyperlpr.py文件为车牌识别文件
 
 car_detection为车辆检测所需的权值文件
-其中所需的文件yolov3.weights下载连接为https://github.com/jielingao/yolov3
+其中所需的文件yolov3.weights下载链接为https://github.com/jielingao/yolov3
 
 simhei.ttf是屏幕显示的字体文件
